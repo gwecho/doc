@@ -1,0 +1,10 @@
+特性：
+自动化测试
+共享setup和shutdown代码
+集成测试
+单独汇报测试结果
+
+test fixture
+test case(TestCase)
+test suite
+test runner
